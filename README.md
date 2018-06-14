@@ -26,7 +26,6 @@ please cite our paper:
  1. LibLinear version 2: 
  2. ManOpt Package
  3. LibSVM version 3.14
- 4. JHMDB dataset. 
  <br>
  All the above are available for download from http://users.cecs.anu.edu.au/~cherian/code/krp_fs.zip.
  
