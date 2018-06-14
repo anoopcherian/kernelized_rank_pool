@@ -1,4 +1,3 @@
-#kernelized_rank_pool
 Implementation of Kernelized Rank Pooling variants. If you use this code,
 please cite our paper:
 
