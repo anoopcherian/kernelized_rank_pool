@@ -22,7 +22,7 @@ please cite our paper:
  available separately.
 
 <br><br>
-<b>Dependencies</b>
+<b>Dependencies:</b><br>
  The code has the following dependencies which you have to download separately and unzip to appropriate folders. 
  1. LibLinear version 2: 
  2. ManOpt Package
