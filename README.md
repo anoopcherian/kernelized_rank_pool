@@ -4,12 +4,12 @@ please cite our paper:
  <b><a href="http://users.cecs.anu.edu.au/~cherian/papers/krpfs-cvpr18.pdf">Non-Linear Temporal Subspace Representations for Activity Recognition, <br>A. Cherian, S. Sra, S. Gould, and R. Hartley, CVPR 2018. </a></b>
  
  This code implements:
- 1. Basic Kernelized Rank Pooling (BKRP) (use algo_type=RBF_WithSlack)
- 2. Improved Basic Kernelized Rank Pooling (IBKRP) (use algo_type='RBF-XRecon-WithSlack')
- 3. Kernelized Rank Pooling with Feature Subspaces (KRP-FS) (use algo_type='RBF-FS_WithSlack')
- 4. Rank Pooling (Video Darwin) (use algo_type='rankpool')
- 5. Linear (Video Darwin, but implemented using a linear kernel) (use algo_type='linear')
- 6. Misc: There are also several other variants of pooling in krp folder (undocumented and unpublished, see code).
+ 1. Basic Kernelized Rank Pooling (BKRP) 
+ 2. Improved Basic Kernelized Rank Pooling (IBKRP)
+ 3. Kernelized Rank Pooling with Feature Subspaces (KRP-FS) 
+ 4. Rank Pooling (Video Darwin) 
+ 5. Linear (Video Darwin, but implemented using a linear kernel) 
+
 <br>
  For bugs and comments, email Anoop Cherian at anoop.cherian@gmail.com. 
  Copyright (c) 2018, Anoop Cherian. All rights reserved.
@@ -26,11 +26,12 @@ please cite our paper:
  1. LibLinear version 2: 
  2. ManOpt Package
  3. LibSVM version 3.14
- 4. JHMDB dataset.
+ 4. JHMDB dataset. 
+ <br>
  All the above are available for download from http://users.cecs.anu.edu.au/~cherian/code/krp_fs.zip.
  
  <br><br>
- A link to <b>HMDB dataset ResNet-152 features</b> for RGB and Flow are available at http://users.cecs.anu.edu.au/~cherian/
+ A link to <b>HMDB dataset ResNet-152 features</b> for RGB and Flow is available at http://users.cecs.anu.edu.au/~cherian/
  
  <br><br>
  <b>How to run the code?</b> <br>
