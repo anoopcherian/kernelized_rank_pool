@@ -36,7 +36,7 @@ please cite our paper:
  in the bundle). Data for HMDB dataset ResNet-152 two stream features are
  available separately.
 
- The code has the following dependencies which you have to download separately and unzipped appropropriately. 
+ The code has the following dependencies which you have to download separately and unzip to appropriate folders. 
  1. LibLinear version 2: 
  2. ManOpt Package
  3. LibSVM version 3.14
@@ -44,3 +44,5 @@ please cite our paper:
  All the above are available to download from http://users.cecs.anu.edu.au/~cherian/code/krp_fs.zip.
  
  A link to <b>HMDB dataset ResNet-152 features</b> for RGB and Flow are available at http://users.cecs.anu.edu.au/~cherian/
+ 
+ How to run the code? Just run demo_krp.m (after fixing the dependencies). The code runs KRP on JHMDB dataset split 1. Tested on Matlab 2018.
