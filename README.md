@@ -2,8 +2,8 @@
 Implementation of Kernelized Rank Pooling variants. If you use this code,
 please cite our paper:
 
- Non-Linear Temporal Subspace Representations for Activity Recognition, 
- A. Cherian, S. Sra, S. Gould, and R. Hartley, CVPR 2018.
+ <b>Non-Linear Temporal Subspace Representations for Activity Recognition, 
+ A. Cherian, S. Sra, S. Gould, and R. Hartley, CVPR 2018. </b>
  
  This code implements:
  1. Basic Kernelized Rank Pooling (BKRP) (use algo_type=RBF_WithSlack)
