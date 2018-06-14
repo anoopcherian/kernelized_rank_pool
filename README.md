@@ -11,17 +11,17 @@ please cite our paper:
  5. Linear (Video Darwin, but implemented using a linear kernel) (use algo_type='linear')
  6. Misc: There are also several other variants of pooling in krp folder (undocumented and unpublished, see code).
 
-<br><br>
+<br>
  <ul>For bugs and comments, email Anoop Cherian at anoop.cherian@gmail.com</ul>
  Copyright (c) 2018, Anoop Cherian. All rights reserved.
  
- <br><br>
+ <br>
  Note: The following code shows a demo implementation and usage of KRP schemes
  on the JHMDB dataset split 1. JHMDB uses VGG-16 fc6 features (available
  in the bundle). Data for HMDB dataset ResNet-152 two stream features are
  available separately.
 
-<br><br><br>
+<br><br>
 <b>Dependencies</b>
  The code has the following dependencies which you have to download separately and unzip to appropriate folders. 
  1. LibLinear version 2: 
@@ -30,19 +30,19 @@ please cite our paper:
  4. JHMDB dataset.
  All the above are available for download from http://users.cecs.anu.edu.au/~cherian/code/krp_fs.zip.
  
- <br><br>
+ <br>
  A link to <b>HMDB dataset ResNet-152 features</b> for RGB and Flow are available at http://users.cecs.anu.edu.au/~cherian/
  
- <br><br>
+ <br>
  <b>How to run the code?</b> <br>
  Just run demo_krp.m (after fixing the dependencies). The code runs KRP on JHMDB dataset split 1. Tested on Matlab 2018.
 
 <br><br>
 DISCLAIMER
- Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:<br><br>
- 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. <br><br>
- 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. <br><br>
- 3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.<br><br>
+ Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:<br>
+ 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. <br>
+ 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. <br>
+ 3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.<br>
  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
  PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, 
  INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF 
