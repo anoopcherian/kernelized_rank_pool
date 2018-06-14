@@ -10,8 +10,7 @@ please cite our paper:
  4. Rank Pooling (Video Darwin) (use algo_type='rankpool')
  5. Linear (Video Darwin, but implemented using a linear kernel) (use algo_type='linear')
  6. Misc: There are also several other variants of pooling in krp folder (undocumented and unpublished, see code).
-
-<br><br>
+<br>
  For bugs and comments, email Anoop Cherian at anoop.cherian@gmail.com. 
  Copyright (c) 2018, Anoop Cherian. All rights reserved.
  
