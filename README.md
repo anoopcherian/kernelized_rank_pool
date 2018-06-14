@@ -12,7 +12,7 @@ please cite our paper:
  6. Misc: There are also several other variants of pooling in krp folder (undocumented and unpublished, see code).
 
 <br><br>
- <ul>For bugs and comments, email Anoop Cherian at anoop.cherian@gmail.com</ul>
+ For bugs and comments, email Anoop Cherian at anoop.cherian@gmail.com. 
  Copyright (c) 2018, Anoop Cherian. All rights reserved.
  
  <br><br>
