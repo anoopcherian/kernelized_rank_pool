@@ -33,9 +33,9 @@ please cite our paper:
  <br>
  A link to <b>HMDB dataset ResNet-152 features</b> for RGB and Flow are available at http://users.cecs.anu.edu.au/~cherian/
  
- <br>
+ <br><br>
  <b>How to run the code?</b> <br>
- Just run demo_krp.m (after fixing the dependencies). The code runs KRP on JHMDB dataset split 1. Tested on Matlab 2018.
+ Run demo_krp() in Matlab to see the usage. The code runs KRP on JHMDB dataset split 1. Tested on Matlab 2018.
 
 <br><br>
 DISCLAIMER
