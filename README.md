@@ -43,4 +43,4 @@ please cite our paper:
  4. JHMDB dataset.
  All the above are available to download from http://users.cecs.anu.edu.au/~cherian/code/krp_fs.zip.
  
- A link to HMDB dataset ResNet-152 features for RGB and Flow are available at http://users.cecs.anu.edu.au/~cherian/
+ A link to <b>HMDB dataset ResNet-152 features</b> for RGB and Flow are available at http://users.cecs.anu.edu.au/~cherian/
